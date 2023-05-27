@@ -118,6 +118,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mbatha-Marvin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+<div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
