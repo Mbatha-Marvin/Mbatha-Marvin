@@ -9,7 +9,7 @@
 - 🔭 I’m currently working at [Masterclass Solutions](https://masterclass.co.ke/) as a Data Engineer  
   
 
-- 🌱 I’m currently learning Front-End (Angular, Vue, Astro) DevOps  and MLOps  
+- 🌱 I’m currently learning Front-End (SvelteKit, Vue, Astro, HTMX, Django, FastAPI) DevOps  and MLOps  
   
 
 - ❓ Ask me about anything related to Python, Data Engineering and Machine Learning  
